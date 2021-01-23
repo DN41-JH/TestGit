@@ -1,2 +1,2 @@
 # TestGit
-Testing of Git
+This is for the initial testing of Git
